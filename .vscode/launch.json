@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
 
         {
             "type": "node",
@@ -12,7 +13,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/2644_maximum_divisibility_score.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/2873_maximum_value_of_triple.js"  //1652_decrypt_e
+           // "cwd": "${workspaceFolder}"
         }
     ]
 }
