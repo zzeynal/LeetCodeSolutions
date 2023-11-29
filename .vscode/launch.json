@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/169_majority_element.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/2942_find_word_containing_character.js"  //1652_decrypt_e
            // "cwd": "${workspaceFolder}"
         }
     ]
