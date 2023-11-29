@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/849_maximize_the_distance_to_closest_person.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/169_majority_element.js"  //1652_decrypt_e
            // "cwd": "${workspaceFolder}"
         }
     ]

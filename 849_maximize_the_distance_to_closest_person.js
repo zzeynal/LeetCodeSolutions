@@ -11,7 +11,7 @@ for(let i = 0; i<seats.length; i++) {
     }
     else {
         count++;
-        result = maxValue(result, (count+1)/2);
+        result = maxValue(result, (count)/2);
     }
 }
 
