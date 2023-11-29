@@ -29,6 +29,10 @@ var majorityElement = function(nums) {
                 max = arr[i][1];
                 maxNum = arr[i][0];
             }
+            else if(arr[i+1][1]>arr[i][1] && arr[i+1][1]>max) {
+                max = arr[i+1][1];
+                maxNum = arr[i+1][0];
+            }
         }
     }
     return maxNum; 
