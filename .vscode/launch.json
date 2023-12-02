@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/1528_shuffle_string.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/1818_turuncate_sentence.js"  //1652_decrypt_e
            // "cwd": "${workspaceFolder}"
         }
     ]
