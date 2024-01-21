@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/1108_defanging_ip_address.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/1678_goal_parser_interpreter.js"  //1652_decrypt_e
            // "cwd": "${workspaceFolder}"
         }
     ]

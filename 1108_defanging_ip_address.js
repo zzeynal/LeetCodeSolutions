@@ -3,20 +3,19 @@
  * @return {string}
  */
 var defangIPaddr = function(address) {
-    let arr = ""
+    let arr = []
     for (let index = 0; index < address.length; index++) {
         const element = address[index];
         if(address[index] != ".") {
-            arr = arr + address[index];
+            arr.push(address[index])
         }
         else if (address[index] == ".") {
-            arr = arr + "[.]"
+            arr.push("[.]")
         }
     }
-    //arr = arr.join(" ")
-    //str = string.copyValueOf(arr)
-    console.log(arr)
-    
+    arr = arr.join("")
+    //console.log(arr)
+    return arr;
 };
 
 
