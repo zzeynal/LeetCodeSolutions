@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/1678_goal_parser_interpreter.js"  //1652_decrypt_e
+            "program": "${workspaceFolder}/2315_count_asterix.js"  //1652_decrypt_e
            // "cwd": "${workspaceFolder}"
         }
     ]

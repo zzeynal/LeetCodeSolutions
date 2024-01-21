@@ -14,7 +14,8 @@ var interpret = function(command) {
         }
     }
     arr = arr.join("");
-    console.log(arr);
+    //console.log(arr);
+    return arr;
 };
 
 
